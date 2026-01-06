@@ -336,12 +336,6 @@ Merge to main branch
 * Clear commit messages
 * Push daily (even small notes)
 
----
-
-* One topic = one `.md` file
-* Clear commit messages
-* Push daily
-* Keep repo clean
 
 ---
 
@@ -362,18 +356,6 @@ After first push:
 
 Git remembers previous history automatically.
 
-## 🧠 Simple Concept (Hinglish)
-
-Ek baar push karne ke baad:
-
-* File edit karo
-* Dubara add karo
-* Dubara commit karo
-* Dubara push karo
-
-Git khud history sambhal leta hai.
-
----
 
 ## 📝 STEP 1: EDIT YOUR `.md` FILE
 
@@ -478,3 +460,4 @@ GitHub Updated ✅
 
 ---
 
+                                ###Rahul Upadhyay
