@@ -60,6 +60,6 @@ git stash
 Work saved safely
       ↓
 Working directory clean
-
+---------------------------------------------------
 >See all stashesgit 
 git stash list
