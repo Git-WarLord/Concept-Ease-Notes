@@ -1,9 +1,7 @@
 # ⚡ 05 – Advanced Git (Rebase, Stash, Cherry-Pick & More)
 
 > **Owner:** Rahul Upadhyay  
-> **Level:** Intermediate → Professional  
-> **Language:** Easy English + Hinglish  
-> **Goal:** Learn how experienced developers clean history, handle urgent work & move commits like pros.
+
 
 ---
 
@@ -63,5 +61,5 @@ Work saved safely
       ↓
 Working directory clean
 
->See all stashes
+>See all stashesgit 
 git stash list
